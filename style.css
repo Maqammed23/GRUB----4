@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#first{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    list-style-type: none;
+}
+#ilkp{
+    width: 40vw;
+}
+#ilkhbir{
+font-weight: 900;
+font-family: GT Walsheim Pro;
+    color: black;
+}
+#ikincihbir{
+    font-family: GT Walsheim Pro;
+    color: red;
+    font-weight: 300;
+font-style: unset;
+font-weight: lighter;
+}
+#ilkp{
+    font-family: GT Walsheim Pro;
+    font-weight: bolder;
+}
+#money{
+    font-family: GT Walsheim Pro;
+    color: red;
+}
+#ilkbutton{
+    color: #0000004A;
+    text-shadow: #0000004A;
+    border-radius: 14px;
+    
+}
+#adidas{
+    display: block;
+    width: 20vw;
+    height: 20vh;
+}
+#adidas:hover{
+cursor: pointer;
+}
